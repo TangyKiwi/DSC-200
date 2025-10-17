@@ -1,0 +1,16 @@
+private/
+public/
+
+.bash_history
+.cache
+.conda
+.gitconfig
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.npm
+.profile
+.ssh
+.vim
+.viminfo
